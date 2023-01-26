@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "my first node package",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajith",
+  "license": "ISC",
+  "dependencies": {
+    "supervillains": "^3.1.0"
+  }
+}
